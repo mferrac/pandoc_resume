@@ -1,100 +1,82 @@
-Johnny Coder
+Matheus Agostini Ferraciolli
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> An Agricultural Engineer turned data scientist by crop yield modeling.
+I started using machine learning studying the effects of spatial autocorrelation in empirical modeling of sugarcane yield. After that, in many different fields like coffee disease occurrence prediction and soil classification models.
+Outside of agriculture, since every modern application uses lots of data, I’ve participated on projects on logistics transportation, car GPS tracking, students performance on online education and survey data analysis.
+
+
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2020 (expected)
+:   **MSc, Data Science**; University of Campinas (Unicamp)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Tomato yield prediction and mass gain prediction using low cost sensors*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2012-2017
+:   **BSc, Agricultural Engineering**; University of Campinas (Unicamp)
 
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2016-2017
+:   **Research**: Bolsista de Iniciação Científica at CNPq
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Effects of spatial autocorrelation in crop yield modeling.** Ignoring spatial autocorrelation between observations, models severely underestimated the error in new data. Using blocks of observations based on location helps better estimate the prediction error in fields that were not used when building the models.
 
-* First item
+2016-2017
+:   **Research**: Intern at Brazilian Agricultural Research Corporation
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Alternatives for automatic soil classification**. Research on soil type classification using chemical and physical properties using decision trees.
 
-**That Other Job You Had**
+Publications
+-------------
+2018
+:   **Neglecting spatial autocorrelation causes underestimation of the error of sugarcane yield models**
 
-Also with a short description.
+[https://doi.org/10.1016/j.compag.2018.09.003a](https://doi.org/10.1016/j.compag.2018.09.003)
 
-Technical Experience
+We implemented a spatially-aware protocol and compared it with the naive approach of assuming independence between samples. The protocols were applied through all the model development pipeline: data splitting for hold-out sets, feature selection, cross-validation for model adjustment and model evaluation. Three different machine learning techniques were used to create models in each protocol. The resulting models were evaluated both in the validation set created by each protocol and in a manually created independent set. This independent set ensured there was no auto-correlation between the samples used for modeling. We showed that assuming independence when modeling yield leads to underestimating model errors and overfit during model adjustment.
+
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* **Applied Machine Learning:** Experience and understanding of the necessary steps to test and implement different machine learning techniques for feature engineering, feature selection, cluster, classification and regression tasks. Also on proper feature engineering, model training and cross-validation.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* **Programming Languages:**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+  * **R:** Experience with tidyverse packages and mlr for large datas reading
+     and manipulation, visualization and different machine larning algorithms
+     implementations.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+  *  **Python:** Experience with numpy, scipy, pandas, scikit-learn and libraries
+     used for data manipulation and machine learning algorithms for different  machine
+     learning tasks.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* **Deep Learning**:
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+   * Completed [certified course](https://www.coursera.org/account/accomplishments/certificate/E5SPX38BK37K) Neural Networks and Deep Learning by deeplearning.ai on Coursera.
+   * Completed [certified course](https://www.coursera.org/account/accomplishments/certificate/CRVJ4DR5D855) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera.
+   * Completed [certified course](https://www.coursera.org/account/accomplishments/certificate/FE3ET79HJTY7) Structuring Machine Learning Projects by deeplearning.ai on Coursera.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+* **Cloud computing:** Experience setting up and using virtual machines and some experience using Azure MLstudio.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+* Also have experience with Linux, IPyhton/Jupyter Notebooks, Kaggle kernels and competitions
 
-* Human Languages:
+* **Languages**:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * Portuguese (native speaker)
+     * English (fluent)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <matheusferraciolli@gmail.com> • +55 (19)9 9795 6737 • 27 years old\
+> Rua Angelo Barijan - Sumaré, SP - Brazil.
