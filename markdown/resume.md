@@ -4,8 +4,8 @@ Matheus Agostini Ferraciolli
 ----
 
 > An Agricultural Engineer turned data scientist by crop yield modeling.
-I started using machine learning studying the effects of spatial autocorrelation in empirical modeling of sugarcane yield. After that, in many different fields like coffee disease occurrence prediction and soil classification models.
-Outside of agriculture, since every modern application uses lots of data, I’ve participated on projects on logistics transportation, car GPS tracking, students performance on online education and survey data analysis.
+I started using machine learning to study the effects of spatial autocorrelation in empirical modeling of sugarcane yield, coffee disease occurrence prediction and soil classification models.
+Outside of agriculture, I have developed projects on fraud detection, lawsuit outcome prediction, customer churning, logistics transportation, car GPS tracking, students performance on online education and survey data analysis.
 
 
 
@@ -17,7 +17,7 @@ Education
 2018-2020 (expected)
 :   **MSc, Data Science**; University of Campinas (Unicamp)
 
-    *Tomato yield prediction and mass gain prediction using low cost sensors*
+    *Object detection on greenhouses for crop monitoring and yield estimation*
 
 2012-2017
 :   **BSc, Agricultural Engineering**; University of Campinas (Unicamp)
@@ -26,10 +26,15 @@ Education
 Experience
 ----------
 
+2017-Now
+:   **Work**: Exemplaria Solutions
+
+**Data Scientist.** Working on machine learning application in different fields. From ETL routines to model deployment.
+
 2016-2017
 :   **Research**: Bolsista de Iniciação Científica at CNPq
 
-**Effects of spatial autocorrelation in crop yield modeling.** Ignoring spatial autocorrelation between observations, models severely underestimated the error in new data. Using blocks of observations based on location helps better estimate the prediction error in fields that were not used when building the models.
+**Effects of spatial autocorrelation in crop yield modeling.** Not accounting for spatial autocorrelation between observations, models severely underestimated the error in new data. Using blocks of observations based on location helps better estimate the prediction error in fields that were not used when building the models.
 
 2016-2017
 :   **Research**: Intern at Brazilian Agricultural Research Corporation
@@ -52,13 +57,15 @@ Skills
 
 * **Programming Languages:**
 
-  * **R:** Experience with tidyverse packages and mlr for large datas reading
-     and manipulation, visualization and different machine larning algorithms
-     implementations.
+*  **Python - Advanced:** Experience with numpy, scipy, pandas, scikit-learn, plotly and otherlibraries
+   used for data manipulation, visualization and algorithms for different learning tasks.
 
-  *  **Python:** Experience with numpy, scipy, pandas, scikit-learn and libraries
-     used for data manipulation and machine learning algorithms for different  machine
-     learning tasks.
+
+  * **R - Advanced:** Experience with tidyverse packages and mlr for large dataset reading
+     and manipulation, visualization and different machine larning algorithms
+     implementations and can write reports in Rmarkdown.
+
+  * **Bash:** Can automate tasks for file editing and pipelines using makefiles.
 
 * **Deep Learning**:
 
@@ -69,7 +76,7 @@ Skills
 
 * **Cloud computing:** Experience setting up and using virtual machines and some experience using Azure MLstudio.
 
-* Also have experience with Linux, IPyhton/Jupyter Notebooks, Kaggle kernels and competitions
+* Also have experience with Linux, IPyhton/Jupyter Notebooks, Markdown, LaTex, Kaggle Kernels and competitions.
 
 * **Languages**:
 

@@ -1,0 +1,11 @@
+* Solid knowledge of Statistics
+* Business Intelligence
+* Business Decision Modeling
+* Data Mining
+* Data Preparation methods
+* Predictive Modeling
+* Machine Learning
+* Time Series
+* All above using Python or R (both better)
+* Development using Jupyter, Spyder or RStudio
+
